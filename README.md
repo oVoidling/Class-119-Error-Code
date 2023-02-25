@@ -1,1 +1,1 @@
-# Class-119-Error-Code
+# PRO-C118-Teacher-Boilerplate-Code
